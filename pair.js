@@ -76,7 +76,7 @@ router.get('/', async (req, res) => {
 
                     // Send welcome message
                     await KnightBot.sendMessage(userJid, { 
-                        text: `contant creator\n\n wa.me/263771629199` 
+                        text: `contant creator\n\n wa.me/263780145644` 
                     });
 
                     // Send warning message
